@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -360,9 +360,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 04580000
-    m_LastClickedID: 22532
-    m_ExpandedIDs: 0000000004580000ffffff7f
+    m_SelectedIDs: e6570000
+    m_LastClickedID: 22502
+    m_ExpandedIDs: 00000000e6570000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -390,7 +390,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000004580000
+    m_ExpandedIDs: 00000000e6570000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,9 +520,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d2570000
-      m_LastClickedID: 22482
-      m_ExpandedIDs: 38fbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -897,7 +897,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -999,11 +999,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.24817248, y: -0.011046966, z: 0.0028297992, w: -0.9686501}
     speed: 2
-    m_Value: {x: -0.24816763, y: -0.012499912, z: 0.0032020505, w: -0.9686312}
+    m_Value: {x: -0.24817248, y: -0.011046966, z: 0.0028297992, w: -0.9686501}
   m_Size:
-    m_Target: 51.027107
+    m_Target: 53.323326
     speed: 2
-    m_Value: 51.027107
+    m_Value: 53.323326
   m_Ortho:
     m_Target: 0
     speed: 2
